@@ -5,4 +5,11 @@ module.exports = {
     },
     android: {},
   },
+  dependencies: {
+    'react-native-flipper': {
+      platforms: {
+        ios: null,
+      },
+    },
+  },
 };
