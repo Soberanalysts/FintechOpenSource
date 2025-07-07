@@ -25,3 +25,4 @@ const styles = StyleSheet.create({
 });
 
 export default App;
+//ios에 올리기 시작(branch : test)
