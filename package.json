@@ -8,7 +8,7 @@
     "lint": "eslint .",
     "start": "react-native start",
     "test": "jest",
-    "git:push": "git add . && git commit -m \"$npm_config_message\" && git push"
+    "gp": "git add . && git commit -m \"$npm_config_message\" && git push"
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "^1.21.0",
