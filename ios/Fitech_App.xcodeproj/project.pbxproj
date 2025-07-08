@@ -11,9 +11,9 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		1424FDC7FEEC0080499FB3C6 /* libPods-Fitech_App.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 03F0D542EE55872484DB38D6 /* libPods-Fitech_App.a */; };
+		167F150B4ED78A8D3224A93B /* libPods-Fitech_App.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B3B03B26A71492093419350 /* libPods-Fitech_App.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		DE7A4BD5B6BD9464CA7F2157 /* libPods-Fitech_App-Fitech_AppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CD461AFE7343F1349D47FF6 /* libPods-Fitech_App-Fitech_AppTests.a */; };
+		B19D6C2248743FCD573F917F /* libPods-Fitech_App-Fitech_AppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BDEE63ED0DBBA08C0A45C2AF /* libPods-Fitech_App-Fitech_AppTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,19 +30,19 @@
 		00E356EE1AD99517003FC87E /* Fitech_AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Fitech_AppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* Fitech_AppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Fitech_AppTests.m; sourceTree = "<group>"; };
-		03F0D542EE55872484DB38D6 /* libPods-Fitech_App.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Fitech_App.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0CD461AFE7343F1349D47FF6 /* libPods-Fitech_App-Fitech_AppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Fitech_App-Fitech_AppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07F961A680F5B00A75B9A /* Fitech_App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fitech_App.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Fitech_App/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = Fitech_App/AppDelegate.mm; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Fitech_App/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Fitech_App/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Fitech_App/main.m; sourceTree = "<group>"; };
-		3E072592E32F29FAE516FDC3 /* Pods-Fitech_App.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fitech_App.debug.xcconfig"; path = "Target Support Files/Pods-Fitech_App/Pods-Fitech_App.debug.xcconfig"; sourceTree = "<group>"; };
-		677152B1EAE031E034D5B186 /* Pods-Fitech_App.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fitech_App.release.xcconfig"; path = "Target Support Files/Pods-Fitech_App/Pods-Fitech_App.release.xcconfig"; sourceTree = "<group>"; };
+		3B3B03B26A71492093419350 /* libPods-Fitech_App.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Fitech_App.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		41FF02C51750571D81FD1AF2 /* Pods-Fitech_App-Fitech_AppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fitech_App-Fitech_AppTests.debug.xcconfig"; path = "Target Support Files/Pods-Fitech_App-Fitech_AppTests/Pods-Fitech_App-Fitech_AppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Fitech_App/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		CA2A6C625AA59EBE4ABD1296 /* Pods-Fitech_App-Fitech_AppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fitech_App-Fitech_AppTests.debug.xcconfig"; path = "Target Support Files/Pods-Fitech_App-Fitech_AppTests/Pods-Fitech_App-Fitech_AppTests.debug.xcconfig"; sourceTree = "<group>"; };
-		D5053D189129498B3104E165 /* Pods-Fitech_App-Fitech_AppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fitech_App-Fitech_AppTests.release.xcconfig"; path = "Target Support Files/Pods-Fitech_App-Fitech_AppTests/Pods-Fitech_App-Fitech_AppTests.release.xcconfig"; sourceTree = "<group>"; };
+		83E0C38E675CA00316E37DE1 /* Pods-Fitech_App.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fitech_App.release.xcconfig"; path = "Target Support Files/Pods-Fitech_App/Pods-Fitech_App.release.xcconfig"; sourceTree = "<group>"; };
+		9B0C93DF51D1BADE43B11D8E /* Pods-Fitech_App.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fitech_App.debug.xcconfig"; path = "Target Support Files/Pods-Fitech_App/Pods-Fitech_App.debug.xcconfig"; sourceTree = "<group>"; };
+		9D5B0AFCC356E7E4BCF29FF4 /* Pods-Fitech_App-Fitech_AppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fitech_App-Fitech_AppTests.release.xcconfig"; path = "Target Support Files/Pods-Fitech_App-Fitech_AppTests/Pods-Fitech_App-Fitech_AppTests.release.xcconfig"; sourceTree = "<group>"; };
+		BDEE63ED0DBBA08C0A45C2AF /* libPods-Fitech_App-Fitech_AppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Fitech_App-Fitech_AppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -51,7 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DE7A4BD5B6BD9464CA7F2157 /* libPods-Fitech_App-Fitech_AppTests.a in Frameworks */,
+				B19D6C2248743FCD573F917F /* libPods-Fitech_App-Fitech_AppTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,7 +59,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1424FDC7FEEC0080499FB3C6 /* libPods-Fitech_App.a in Frameworks */,
+				167F150B4ED78A8D3224A93B /* libPods-Fitech_App.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -100,8 +100,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				03F0D542EE55872484DB38D6 /* libPods-Fitech_App.a */,
-				0CD461AFE7343F1349D47FF6 /* libPods-Fitech_App-Fitech_AppTests.a */,
+				3B3B03B26A71492093419350 /* libPods-Fitech_App.a */,
+				BDEE63ED0DBBA08C0A45C2AF /* libPods-Fitech_App-Fitech_AppTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -140,10 +140,10 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3E072592E32F29FAE516FDC3 /* Pods-Fitech_App.debug.xcconfig */,
-				677152B1EAE031E034D5B186 /* Pods-Fitech_App.release.xcconfig */,
-				CA2A6C625AA59EBE4ABD1296 /* Pods-Fitech_App-Fitech_AppTests.debug.xcconfig */,
-				D5053D189129498B3104E165 /* Pods-Fitech_App-Fitech_AppTests.release.xcconfig */,
+				9B0C93DF51D1BADE43B11D8E /* Pods-Fitech_App.debug.xcconfig */,
+				83E0C38E675CA00316E37DE1 /* Pods-Fitech_App.release.xcconfig */,
+				41FF02C51750571D81FD1AF2 /* Pods-Fitech_App-Fitech_AppTests.debug.xcconfig */,
+				9D5B0AFCC356E7E4BCF29FF4 /* Pods-Fitech_App-Fitech_AppTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -155,11 +155,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "Fitech_AppTests" */;
 			buildPhases = (
-				76299DFAEA3478121E9B6E13 /* [CP] Check Pods Manifest.lock */,
+				CB3BFD5917C6D2656D2C246A /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				917E7160F2BCC8E48706EC89 /* [CP] Copy Pods Resources */,
+				AD030A8BA856AAEE72B96990 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -175,12 +175,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "Fitech_App" */;
 			buildPhases = (
-				D5E8AB67D775EE02F0847D2B /* [CP] Check Pods Manifest.lock */,
+				4AA4B39974421D1D12A10645 /* [CP] Check Pods Manifest.lock */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				44D8B39EFB44D4DCCD7BD168 /* [CP] Copy Pods Resources */,
+				92487E696712FCD2B7E2D73E /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -263,7 +263,29 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"../node_modules/react-native/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"../node_modules/react-native/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
 		};
-		44D8B39EFB44D4DCCD7BD168 /* [CP] Copy Pods Resources */ = {
+		4AA4B39974421D1D12A10645 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Fitech_App-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		92487E696712FCD2B7E2D73E /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -280,29 +302,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Fitech_App/Pods-Fitech_App-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		76299DFAEA3478121E9B6E13 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Fitech_App-Fitech_AppTests-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		917E7160F2BCC8E48706EC89 /* [CP] Copy Pods Resources */ = {
+		AD030A8BA856AAEE72B96990 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -319,7 +319,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Fitech_App-Fitech_AppTests/Pods-Fitech_App-Fitech_AppTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		D5E8AB67D775EE02F0847D2B /* [CP] Check Pods Manifest.lock */ = {
+		CB3BFD5917C6D2656D2C246A /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -334,7 +334,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Fitech_App-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-Fitech_App-Fitech_AppTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -374,7 +374,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CA2A6C625AA59EBE4ABD1296 /* Pods-Fitech_App-Fitech_AppTests.debug.xcconfig */;
+			baseConfigurationReference = 41FF02C51750571D81FD1AF2 /* Pods-Fitech_App-Fitech_AppTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				DEVELOPMENT_TEAM = 96876GLFNC;
@@ -402,7 +402,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D5053D189129498B3104E165 /* Pods-Fitech_App-Fitech_AppTests.release.xcconfig */;
+			baseConfigurationReference = 9D5B0AFCC356E7E4BCF29FF4 /* Pods-Fitech_App-Fitech_AppTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -427,7 +427,7 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3E072592E32F29FAE516FDC3 /* Pods-Fitech_App.debug.xcconfig */;
+			baseConfigurationReference = 9B0C93DF51D1BADE43B11D8E /* Pods-Fitech_App.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -455,7 +455,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 677152B1EAE031E034D5B186 /* Pods-Fitech_App.release.xcconfig */;
+			baseConfigurationReference = 83E0C38E675CA00316E37DE1 /* Pods-Fitech_App.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
