@@ -56,3 +56,4 @@ target 'Fitech_App' do
     )
   end
 end
+# Pods/Headers/Private/RCT-Folly/folly/portability/Time.h 수정
