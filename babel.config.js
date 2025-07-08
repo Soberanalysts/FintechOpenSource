@@ -1,5 +1,5 @@
 module.exports = {
-  presets: ['module:@react-native/babel-preset'],
+  presets: ['module:metro-react-native-babel-preset'],
   plugins: [
     '@babel/plugin-transform-nullish-coalescing-operator',
     '@babel/plugin-transform-optional-chaining',
