@@ -8,3 +8,10 @@ jest.mock('@react-native-async-storage/async-storage', () =>
 
 // 필요시 모킹할 것들 (예: react-navigation)
 jest.mock('react-native/Libraries/Animated/NativeAnimatedHelper');
+
+// 🔥 Appearance API mock
+jest.mock('react-native/Libraries/Utilities/Appearance', () => ({
+  getColorScheme: jest.fn(() => 'light'),
+  addChangeListener: jest.fn(),
+  removeChangeListener: jest.fn(),
+}));
